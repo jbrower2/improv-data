@@ -7,7 +7,7 @@
 		// use all ESNext
 		"lib": ["ESNext"],
 		"module": "ESNext",
-		"moduleResolution": "Bundler",
+		"moduleResolution": "Node10",
 		"target": "ESNext"
 	}
 }

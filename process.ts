@@ -257,7 +257,12 @@ class PersonType extends BaseType {
 }
 const PERSON = new PersonType();
 
-const shows = JSON.parse(await fs.promises.readFile("main.json", "utf8"));
+if (process.argv.length !== 3) {
+	console.error("Usage: process.ts <input.json>");
+	process.exit(1);
+}
+
+const shows = JSON.parse(await fs.promises.readFile(process.argv[2], "utf8"));
 
 await createEmptyDir("output");
 

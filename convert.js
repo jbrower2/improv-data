@@ -2977,20 +2977,18 @@ function episode(i, ctx) {
 	return o;
 }
 
+if (process.argv.length !== 3) {
+	console.error("Usage: convert.js <input.json>");
+	process.exit(1);
+}
+
 const OUTPUT_FILE = "output.json";
 if (fs.existsSync(OUTPUT_FILE)) {
 	console.error(OUTPUT_FILE, "already exists!");
 	process.exit(1);
 }
 
-const AU = JSON.parse(fs.readFileSync("raw/au.json", "utf8"));
-const GS = JSON.parse(fs.readFileSync("raw/gs.json", "utf8"));
-const IAG = JSON.parse(fs.readFileSync("raw/iag.json", "utf8"));
-const UK = JSON.parse(fs.readFileSync("raw/uk.json", "utf8"));
-const US_ABC = JSON.parse(fs.readFileSync("raw/us-abc.json", "utf8"));
-const US_CW = JSON.parse(fs.readFileSync("raw/us-cw.json", "utf8"));
-
-const ALL = { ...AU, ...GS, ...IAG, ...UK, ...US_ABC, ...US_CW };
+const ALL = JSON.parse(await fs.promises.readFile(process.argv[2], "utf8"));
 
 const shows = [];
 const errors = [];
@@ -3124,4 +3122,4 @@ if (errors.length) {
 	throw new Error("Episode errors");
 }
 
-fs.writeFileSync(OUTPUT_FILE, JSON.stringify(shows, null, 2));
+await fs.promises.writeFile(OUTPUT_FILE, JSON.stringify(shows, null, 2));

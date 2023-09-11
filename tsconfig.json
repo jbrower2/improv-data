@@ -1,11 +1,10 @@
 {
-	"extends": "./tsconfig-mjs.json",
-
+	// just for IDE support of scripts in root directory
+	"extends": "./tsconfig-base.json",
 	"compilerOptions": {
 		"rootDir": ".",
 		"module": "ESNext",
 		"allowJs": true
 	},
-
 	"include": ["*"]
 }

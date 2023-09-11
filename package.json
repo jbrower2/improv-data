@@ -1,12 +1,13 @@
 {
   "name": "@jbrower/improv-data",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "main": "dist/cjs/index.js",
   "module": "dist/mjs/index.js",
   "exports": {
     "require": "./dist/cjs/index.js",
     "import": "./dist/mjs/index.js"
   },
+  "files": ["dist", "src"],
   "scripts": {
     "build": "rimraf dist && tsc -p tsconfig-mjs.json && tsc -p tsconfig-cjs.json && bun run fixup.ts",
     "pub": "bun run build && npm publish --access=public"

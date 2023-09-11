@@ -8,7 +8,7 @@
     "import": "./dist/mjs/index.js"
   },
   "scripts": {
-    "build": "rimraf dist && tsc -p tsconfig-mjs.json && tsc -p tsconfig-cjs.json && bun run fixup.js"
+    "build": "rimraf dist && tsc -p tsconfig-mjs.json && tsc -p tsconfig-cjs.json && bun run fixup.ts"
   },
   "devDependencies": {
     "@types/node": "^20.6.0",

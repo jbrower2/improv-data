@@ -1,9 +1,9 @@
-import { type Game } from "./game";
+import { type Game } from "./game/index.js";
 import {
 	type PersonName,
 	type PersonWithOptionalAlternateName,
 } from "./person";
-import { type RA } from "./readonly-array";
+import { type RA } from "./readonly-array.js";
 
 export interface Episode<P extends PersonName> {
 	readonly number: number;

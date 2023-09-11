@@ -1,6 +1,6 @@
-import { type BaseGame } from "../base-game";
-import { type PersonName } from "../person";
-import { type RA, type RA1, type RA2, type RA3 } from "../readonly-array";
+import { type BaseGame } from "../base-game.js";
+import { type PersonName } from "../person.js";
+import { type RA, type RA1, type RA2, type RA3 } from "../readonly-array.js";
 
 export interface AfricanChant extends BaseGame<"African Chant"> {
 	readonly singer?: PersonName; // 4/5

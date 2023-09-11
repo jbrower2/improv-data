@@ -7,6 +7,9 @@
     "require": "./dist/cjs/index.js",
     "import": "./dist/mjs/index.js"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "rimraf dist && tsc -p tsconfig-mjs.json && tsc -p tsconfig-cjs.json && bun run fixup.ts"
   },

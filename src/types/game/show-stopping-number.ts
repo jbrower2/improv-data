@@ -2,6 +2,7 @@ import { type BaseGame } from "../base-game";
 import { type PersonName } from "../person";
 import { type RA, type RA1, type RA2, type RA3 } from "../readonly-array";
 
+// TODO verify type
 export interface ShowStoppingNumber extends BaseGame<"Show-Stopping Number"> {
 	readonly performers: RA2<PersonName> | RA3<PersonName>;
 	readonly musicians?: RA2<PersonName>; // 9/15

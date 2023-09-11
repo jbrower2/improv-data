@@ -2,6 +2,7 @@ import { type BaseGame } from "../base-game";
 import { type PersonName } from "../person";
 import { type RA, type RA1, type RA2, type RA3 } from "../readonly-array";
 
+// TODO verify type
 export interface TwoLineVocabulary extends BaseGame<"Two-Line Vocabulary"> {
 	readonly performers?: RA3<PersonName>; // 9/17
 	readonly scene: string;

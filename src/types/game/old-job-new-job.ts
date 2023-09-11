@@ -2,6 +2,7 @@ import { type BaseGame } from "../base-game";
 import { type PersonName } from "../person";
 import { type RA, type RA1, type RA2, type RA3 } from "../readonly-array";
 
+// TODO verify type
 export interface OldJobNewJob extends BaseGame<"Old Job, New Job"> {
 	readonly performers?: RA2<PersonName> | RA3<PersonName>; // 25/27
 	readonly oldJobPerformers?: RA1<PersonName> | RA2<PersonName>; // 23/27

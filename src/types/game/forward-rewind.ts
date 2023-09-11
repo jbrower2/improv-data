@@ -2,6 +2,7 @@ import { type BaseGame } from "../base-game";
 import { type PersonName } from "../person";
 import { type RA, type RA1, type RA2, type RA3 } from "../readonly-array";
 
+// TODO verify type
 export interface ForwardRewind extends BaseGame<"Forward Rewind"> {
 	readonly performers?: RA<PersonName>; // 9/17
 	readonly moderators?: RA1<PersonName>; // 4/17

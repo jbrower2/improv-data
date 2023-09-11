@@ -2,6 +2,7 @@ import { type BaseGame } from "../base-game";
 import { type PersonName } from "../person";
 import { type RA, type RA1, type RA2, type RA3 } from "../readonly-array";
 
+// TODO verify type
 export interface NewsReport extends BaseGame<"News Report"> {
 	readonly anchormen?: RA1<PersonName> | RA2<PersonName>; // 2/16
 	readonly interviewer?:

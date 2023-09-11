@@ -1,5 +1,5 @@
-import { Episode } from "./episode.js";
-import { PersonName } from "./person.js";
+import { Episode } from "./episode";
+import { PersonName } from "./person";
 
 export interface Season {
 	readonly number: number;

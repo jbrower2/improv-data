@@ -1,4 +1,4 @@
-import { type Episode } from "../../types/episode.js";
+import { type Episode } from "../../types/episode";
 
 export const e16: Episode<
 	| "Drew Carey"

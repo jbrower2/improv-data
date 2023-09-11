@@ -1,4 +1,4 @@
-import { Season } from "./season.js";
+import { Season } from "./season";
 
 export interface Show {
 	readonly name: string;

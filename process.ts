@@ -504,8 +504,8 @@ ${INDENT}readonly alternateName?: string;
 await fs.promises.writeFile(
 	"output/types/episode.ts",
 	`import { type Game } from "./game";
-import { type PersonName } from "./person.js";
-import { type RA } from "./readonly-array.js";
+import { type PersonName } from "./person";
+import { type RA } from "./readonly-array";
 
 export interface Episode<P extends PersonName> {
 ${INDENT}readonly number: number;
@@ -523,7 +523,7 @@ ${INDENT}readonly games: RA<Game>;
 await fs.promises.writeFile(
 	"output/types/season.ts",
 	`import { Episode } from "./episode";
-import { PersonName } from "./person.js";
+import { PersonName } from "./person";
 
 export interface Season {
 ${INDENT}readonly number: number;

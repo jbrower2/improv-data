@@ -1,0 +1,20 @@
+{
+	"compilerOptions": {
+		"baseUrl": ".",
+		"composite": true,
+		"declaration": true,
+		"declarationMap": true,
+		"downlevelIteration": true,
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"moduleDetection": "force",
+		"paths": {
+			"*": ["node_modules/*"]
+		},
+		"rootDir": "src",
+		"sourceMap": true,
+		"strict": true,
+		"useUnknownInCatchVariables": true
+	},
+	"include": ["src"]
+}

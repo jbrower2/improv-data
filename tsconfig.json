@@ -1,0 +1,11 @@
+{
+	"extends": "./tsconfig-mjs.json",
+
+	"compilerOptions": {
+		"rootDir": ".",
+		"module": "ESNext",
+		"allowJs": true
+	},
+
+	"include": ["*"]
+}

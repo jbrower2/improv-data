@@ -1,0 +1,864 @@
+{
+  "Green Screen 01": {
+    "Airdate": ["7 October 2004"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Brad Sherwood",
+      "Colin Mochrie",
+      "Jeff Davis",
+      "Greg Proops",
+      "Chip Esten",
+      "Julie Larson"
+    ],
+    "Games": [
+      {
+        "Name": "Tag",
+        "AlternateName": "Freeze Tag",
+        "Data": [
+          {
+            "Starting positions": "Kneeling (Brad) and Lying down (Greg)"
+          }
+        ]
+      },
+      {
+        "Name": "Whose Line?",
+        "AlternateName": "Sentences",
+        "Data": [
+          {
+            "Performers": "Julie and Drew, with Brad, Jeff and Greg"
+          },
+          {
+            "Scene": "Zeppelin"
+          },
+          {
+            "Sentences": [
+              "\"What planet are you from?\"",
+              "\"The game isn't over until the fat lady sings.\"",
+              "\"Your hair looks nice today.\"",
+              "\"I am a real blonde.\"",
+              "\"My mind's a blank.\"",
+              "\"What happened to gay goats?\"",
+              "\"What's that thing in your pants?\"",
+              "\"The domain server took a dump.\"",
+              "\"Can I use your toenail clippers?\"",
+              "\"My doctor won't like that.\"",
+              "\"You just searched my glove compartment.\""
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Quick Change",
+        "AlternateName": "New Choice",
+        "Data": [
+          {
+            "Performers": "Colin and Brad, with Jeff"
+          },
+          {
+            "Scene": "_How ta Box_"
+          }
+        ]
+      },
+      {
+        "Name": "One-Syllable Word",
+        "Data": [
+          {
+            "Scene": "At the racetrack"
+          }
+        ]
+      }
+    ]
+  },
+  "Green Screen 02": {
+    "Airdate": ["14 October 2004"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Brad Sherwood",
+      "Colin Mochrie",
+      "Jeff Davis",
+      "Greg Proops",
+      "Jonathan Mangum",
+      "Sean Masterson"
+    ],
+    "Games": [
+      {
+        "Name": "One-Syllable Word",
+        "Data": [
+          {
+            "Scene": "At boot camp"
+          }
+        ]
+      },
+      {
+        "Name": "Whose Line?",
+        "AlternateName": "Sentences",
+        "Data": [
+          {
+            "Performers": "Greg and Drew, with Brad"
+          },
+          {
+            "Scene": "Western"
+          },
+          {
+            "First line": "\"You shot me in the heart.\""
+          },
+          {
+            "Lines": [
+              "\"My hemorrhoids have flared up again.\"",
+              "\"You're lookin' hellafied.\"",
+              "\"I love you more than all the stars in the sky.\"",
+              "\"Have I seen you here before?\"",
+              "\"That's the best massage I've ever had.\"",
+              "\"How can I miss you if you won't go away.\"",
+              "\"Does something smell?\"",
+              "\"Where're my car keys?\""
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Filler Clip",
+        "Data": [
+          {
+            "Performers": "Jeff and Jonathan"
+          },
+          {
+            "Scene": "On the Scream-a-Puker 4000"
+          }
+        ]
+      },
+      {
+        "Name": "Quick Change",
+        "AlternateName": "New Choice",
+        "Data": [
+          {
+            "Performers": "Colin and Brad, with Jeff"
+          },
+          {
+            "Scene": "_How to Have a Baby_"
+          }
+        ]
+      },
+      {
+        "Name": "Filler Clip",
+        "Data": [
+          {
+            "Performers": "Drew, Sean, and Jeff"
+          },
+          {
+            "Scene": "100-yard dash runners"
+          }
+        ]
+      },
+      {
+        "Name": "Tag",
+        "AlternateName": "Freeze Tag",
+        "Data": [
+          {
+            "Starting positions": "Squatting (Colin) and On one leg (Jonathan)"
+          }
+        ]
+      }
+    ]
+  },
+  "Green Screen 03": {
+    "Airdate": ["21 October 2004"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Brad Sherwood",
+      "Colin Mochrie",
+      "Jeff Davis",
+      "Greg Proops",
+      "Chip Esten",
+      "Julie Larson"
+    ],
+    "Games": [
+      {
+        "Name": "Quiz Show",
+        "AlternateName": "Game Show",
+        "Data": [
+          {
+            "Host": "Brad"
+          },
+          {
+            "Contestants": "Drew, Greg, and Chip"
+          },
+          {
+            "Title": "_Catch That Knife_"
+          }
+        ]
+      },
+      {
+        "Name": "Sound Effects (with Audience Members)",
+        "Data": [
+          {
+            "Performers": "Colin and Drew"
+          },
+          {
+            "Audience members": "Qinqin and Brian"
+          },
+          {
+            "Scene": "Animal training"
+          }
+        ]
+      },
+      {
+        "Name": "Quick Change",
+        "AlternateName": "New Choice",
+        "Data": [
+          {
+            "Performers": "Greg and Jeff, with Brad"
+          },
+          {
+            "Scene": "In a babyproofing store"
+          }
+        ]
+      },
+      {
+        "Name": "Tag",
+        "AlternateName": "Freeze Tag",
+        "Data": [
+          {
+            "Starting positions": "Indian style (Julie) and Touching his toes (Greg)"
+          }
+        ]
+      }
+    ]
+  },
+  "Green Screen 04": {
+    "Airdate": ["28 October 2004"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Brad Sherwood",
+      "Colin Mochrie",
+      "Jeff Davis",
+      "Greg Proops",
+      "Chip Esten",
+      "Julie Larson",
+      "Sean Masterson"
+    ],
+    "Games": [
+      {
+        "Name": "One-Syllable Word",
+        "Data": [
+          {
+            "Scene": "At the dentist"
+          }
+        ]
+      },
+      {
+        "Name": "Hollywood Moments",
+        "Data": [
+          {
+            "Performers": "Julie, Colin, and Drew, with Jeff"
+          },
+          {
+            "Scene": "A horrible toaster accident"
+          }
+        ]
+      },
+      {
+        "Name": "Sound Effects (with Audience Members)",
+        "Data": [
+          {
+            "Performers": "Colin and Jeff"
+          },
+          {
+            "Audience members": "Holly and Jeff"
+          },
+          {
+            "Scene": "In Alaska"
+          }
+        ]
+      },
+      {
+        "Name": "Story",
+        "Data": [
+          {
+            "Leader": "Greg"
+          },
+          {
+            "Storytellers": "Colin, Chip, Julie, Jeff, Sean, Drew, and Brad"
+          },
+          {
+            "Title": "_The Tale of Onion Sam_"
+          }
+        ]
+      }
+    ]
+  },
+  "Green Screen 05": {
+    "Airdate": ["4 November 2004"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Brad Sherwood",
+      "Colin Mochrie",
+      "Jeff Davis",
+      "Greg Proops",
+      "Chip Esten",
+      "Kathy Kinney",
+      "Jonathan Mangum"
+    ],
+    "Games": [
+      {
+        "Name": "One-Syllable Word",
+        "Data": [
+          {
+            "Scene": "At the veterinarian"
+          }
+        ]
+      },
+      {
+        "Name": "Quick Change",
+        "AlternateName": "New Choice",
+        "Data": [
+          {
+            "Performers": "Brad and Jeff, with Colin"
+          },
+          {
+            "Scene": "Shakespeare in Bakersfield"
+          }
+        ]
+      },
+      {
+        "Name": "Story",
+        "Data": [
+          {
+            "Leader": "Drew"
+          },
+          {
+            "Storytellers": "Colin, Chip, Kathy, Brad, Greg, and Jeff"
+          },
+          {
+            "Title": "_The Man Who Stole Florida_"
+          }
+        ]
+      },
+      {
+        "Name": "Sound Effects (with Audience Members)",
+        "Data": [
+          {
+            "Performers": "Drew and Jeff"
+          },
+          {
+            "Audience members": "Leeann and Philip"
+          },
+          {
+            "Scene": "A banana exploder"
+          }
+        ]
+      }
+    ]
+  },
+  "Green Screen 06": {
+    "Airdate": ["26 September 2005"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Brad Sherwood",
+      "Colin Mochrie",
+      "Jeff Davis",
+      "Greg Proops",
+      "Chip Esten",
+      "Kathy Kinney",
+      "Jonathan Mangum",
+      "Sean Masterson"
+    ],
+    "Games": [
+      {
+        "Name": "Film TV and Theater Styles",
+        "AlternateName": "Styles",
+        "Data": [
+          {
+            "Performers": "Jeff and Chip, with Brad"
+          },
+          {
+            "Scene": "Afraid of underwear"
+          },
+          {
+            "Styles": "Western, Musical, Dance break, Horror, French, Italian, Romance, Close-together dance break, Opera"
+          }
+        ]
+      },
+      {
+        "Name": "Quiz Show",
+        "AlternateName": "Game Show",
+        "Data": [
+          {
+            "Host": "Greg"
+          },
+          {
+            "Contestants": "Jeff, Brad, and Sean"
+          },
+          {
+            "Title": "_You Bet Your Pants_"
+          }
+        ]
+      },
+      {
+        "Name": "Tag",
+        "AlternateName": "Freeze Tag",
+        "Data": [
+          {
+            "Starting positions": "Plie (Jonathan) and Karate Kid (Kathy)"
+          }
+        ]
+      },
+      {
+        "Name": "Story",
+        "Data": [
+          {
+            "Leader": "Drew"
+          },
+          {
+            "Storytellers": "Jeff, Greg, Brad, Sean, Jonathan, and Colin"
+          },
+          {
+            "Title": "_Bertha and the Haunted Municipal Building_"
+          }
+        ]
+      }
+    ]
+  },
+  "Green Screen 07": {
+    "Airdate": ["3 October 2005"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Brad Sherwood",
+      "Colin Mochrie",
+      "Jeff Davis",
+      "Greg Proops",
+      "Jonathan Mangum",
+      "Sean Masterson"
+    ],
+    "Games": [
+      {
+        "Name": "Quick Change",
+        "AlternateName": "New Choice",
+        "Data": [
+          {
+            "Performers": "Jeff and Jonathan, with Greg"
+          },
+          {
+            "Scene": "Tahiti"
+          }
+        ]
+      },
+      {
+        "Name": "Sound Effects (with Audience Members)",
+        "Data": [
+          {
+            "Performers": "Jeff and Brad"
+          },
+          {
+            "Audience members": "Brian and Mel"
+          },
+          {
+            "Scene": "Dangerous mission into space"
+          }
+        ]
+      },
+      {
+        "Name": "Filler Clip",
+        "Data": [
+          {
+            "Performers": "Jeff, Sean, and Brad"
+          },
+          {
+            "Scene": "My cat, Boogie Oogie Oogie"
+          }
+        ]
+      },
+      {
+        "Name": "Hollywood Moments",
+        "Data": [
+          {
+            "Performers": "Greg, Sean, and Drew, with Jonathan"
+          },
+          {
+            "Scene": "Hurricane"
+          }
+        ]
+      },
+      {
+        "Name": "Film TV and Theater Styles",
+        "AlternateName": "Styles",
+        "Data": [
+          {
+            "Performers": "Brad and Jonathan, with Jeff"
+          },
+          {
+            "Scene": "Nurse and patient"
+          },
+          {
+            "Styles": "Western, Dr. Seuss, Edgar Allan Poe, Elementary school play, Indian Dr. Seuss"
+          }
+        ]
+      }
+    ]
+  },
+  "Green Screen 08": {
+    "Airdate": ["10 October 2005"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Brad Sherwood",
+      "Colin Mochrie",
+      "Jeff Davis",
+      "Greg Proops",
+      "Kathy Kinney",
+      "Jonathan Mangum"
+    ],
+    "Games": [
+      {
+        "Name": "Quiz Show",
+        "AlternateName": "Game Show",
+        "Data": [
+          {
+            "Host": "Brad"
+          },
+          {
+            "Contestants": "Jeff, Kathy, and Greg"
+          },
+          {
+            "Title": "_Guess My Disorder_"
+          }
+        ]
+      },
+      {
+        "Name": "Sound Effects (with Audience Members)",
+        "Data": [
+          {
+            "Performers": "Brad and Jeff"
+          },
+          {
+            "Audience members": "Meredith and Eric"
+          },
+          {
+            "Scene": "At the airport"
+          }
+        ]
+      },
+      {
+        "Name": "Quick Change",
+        "AlternateName": "New Choice",
+        "Data": [
+          {
+            "Performers": "Brad and Colin, with Jeff"
+          },
+          {
+            "Scene": "_How to Clean a Fish_"
+          }
+        ]
+      },
+      {
+        "Name": "Moving People",
+        "Data": [
+          {
+            "Performers": "Greg and Jeff"
+          },
+          {
+            "Movers from the audience": "Sandy and Tony"
+          },
+          {
+            "Scene": "Whiner Day"
+          }
+        ]
+      }
+    ]
+  },
+  "Green Screen 09": {
+    "Airdate": ["17 October 2005"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Brad Sherwood",
+      "Colin Mochrie",
+      "Jeff Davis",
+      "Greg Proops",
+      "Kathy Kinney",
+      "Julie Larson",
+      "Jonathan Mangum",
+      "Sean Masterson"
+    ],
+    "Games": [
+      {
+        "Name": "Sound Effects (with Audience Members)",
+        "Data": [
+          {
+            "Performers": "Greg and Brad"
+          },
+          {
+            "Audience members": "Carlos and Sarah"
+          },
+          {
+            "Scene": "On a construction site"
+          }
+        ]
+      },
+      {
+        "Name": "Scenes",
+        "Data": [
+          {
+            "Performers": "Drew, Sean, Greg, Jonathan, Brad, Jeff"
+          },
+          {
+            "Theme": "Half-wildebeest, half-mermaid"
+          }
+        ]
+      },
+      {
+        "Name": "Quick Change",
+        "AlternateName": "New Choice",
+        "Data": [
+          {
+            "Performers": "Greg and Jeff, with Brad"
+          },
+          {
+            "Scene": "Foie gras factory"
+          }
+        ]
+      },
+      {
+        "Name": "Scenes",
+        "Data": [
+          {
+            "Performers": "Jonathan, Jeff, Greg, Brad, Sean, Drew, Kathy, Julie"
+          },
+          {
+            "Theme": "Computer virus"
+          }
+        ]
+      }
+    ]
+  },
+  "Green Screen 10": {
+    "Airdate": ["24 October 2005"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Brad Sherwood",
+      "Colin Mochrie",
+      "Jeff Davis",
+      "Greg Proops",
+      "Chip Esten",
+      "Julie Larson",
+      "Sean Masterson"
+    ],
+    "Games": [
+      {
+        "Name": "Tag",
+        "AlternateName": "Freeze Tag",
+        "Data": [
+          {
+            "Starting positions": "Kneeling (Colin) and On one foot (Julie)"
+          }
+        ]
+      },
+      {
+        "Name": "Quiz Show",
+        "AlternateName": "Game Show",
+        "Data": [
+          {
+            "Host": "Greg"
+          },
+          {
+            "Contestants": "Drew, Colin, and Chip"
+          },
+          {
+            "Title": "_Clean My House_"
+          }
+        ]
+      },
+      {
+        "Name": "Scenes",
+        "Data": [
+          {
+            "Performers": "Brad, Jeff, Greg, Colin, Julie, and Chip"
+          },
+          {
+            "Theme": "Good & Evil, and Sad"
+          }
+        ]
+      },
+      {
+        "Name": "Filler Clip",
+        "Data": [
+          {
+            "Performers": "Jeff, Greg, and Drew"
+          },
+          {
+            "Scene": "Acme Airways for Green Skies"
+          }
+        ]
+      }
+    ]
+  },
+  "Green Screen 11": {
+    "Airdate": ["1 November 2005"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Brad Sherwood",
+      "Colin Mochrie",
+      "Jeff Davis",
+      "Greg Proops",
+      "Chip Esten",
+      "Kathy Kinney"
+    ],
+    "Games": [
+      {
+        "Name": "Sound Effects (with Audience Members)",
+        "Data": [
+          {
+            "Performers": "Jeff and Brad"
+          },
+          {
+            "Audience members": "Sally and Paul"
+          },
+          {
+            "Scene": "Bodyguard"
+          }
+        ]
+      },
+      {
+        "Name": "Quick Change",
+        "AlternateName": "New Choice",
+        "Data": [
+          {
+            "Performers": "Chip and Greg, with Brad"
+          },
+          {
+            "Scene": "An African safari"
+          }
+        ]
+      },
+      {
+        "Name": "Whose Line?",
+        "AlternateName": "Sentences",
+        "Data": [
+          {
+            "Performers": "Drew and Colin, with Chip"
+          },
+          {
+            "Scene": "Inventors"
+          },
+          {
+            "Sentences": [
+              "\"I have a craving for Froot Loops.\"",
+              "\"I stick pebbles up my nose.\"",
+              "\"Do I look fat in this outfit?\"",
+              "\"I'm a punk-rock Yiddish girl trying to survive in the projects of Sarasota, Florida.\"",
+              "\"I used to be a lifeguard.\"",
+              "\"I lust after San Diego men.\"",
+              "\"Can I borrow your bologna sandwich?\"",
+              "\"Your hair is whistling 'Dixie'.\"",
+              "\"I have fallen and I can't get up.\""
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Story",
+        "Data": [
+          {
+            "Leader": "Jeff"
+          },
+          {
+            "Storytellers": "Colin, Chip, Kathy, Brad, Greg, and Drew"
+          },
+          {
+            "Title": "_The Superb Ego_"
+          }
+        ]
+      }
+    ]
+  },
+  "Green Screen 12": {
+    "Airdate": ["8 November 2005"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Brad Sherwood",
+      "Colin Mochrie",
+      "Jeff Davis",
+      "Greg Proops",
+      "Chip Esten",
+      "Kathy Kinney",
+      "Julie Larson",
+      "Jonathan Mangum",
+      "Sean Masterson"
+    ],
+    "Games": [
+      {
+        "Name": "Scenes",
+        "Data": [
+          {
+            "Performers": "Greg, Colin, Jeff, and Brad"
+          },
+          {
+            "Theme": "In a hotel with Santa Claus"
+          }
+        ]
+      },
+      {
+        "Name": "Story",
+        "Data": [
+          {
+            "Leader": "Drew"
+          },
+          {
+            "Storytellers": "Colin, Chip, Julie, Jeff, Sean, Greg, and Brad"
+          },
+          {
+            "Title": "_The Little Antelope That Could_"
+          }
+        ]
+      },
+      {
+        "Name": "Filler Clip",
+        "Data": [
+          {
+            "Performers": "Chip and Greg"
+          },
+          {
+            "Scene": "Sports car drivers"
+          }
+        ]
+      },
+      {
+        "Name": "Whose Line?",
+        "AlternateName": "Sentences",
+        "Data": [
+          {
+            "Performers": "Drew and Jonathan, with Greg and Brad"
+          },
+          {
+            "Scene": "A dry cleaner's"
+          },
+          {
+            "Sentences": [
+              "\"Are you gonna eat that?\"",
+              "\"Your eyes are a beautiful blue tonight.\"",
+              "\"You're one of those hens who identifies as a rooster aren't you?\"",
+              "\"Can I touch your tonsils?\"",
+              "\"What is that on your toe?\"",
+              "\"I like to eat noodles.\"",
+              "\"Wow, I ate too much.\"",
+              "\"Pass the butter, please.\"",
+              "\"What did you put on this toast?\"",
+              "\"Boy, you look down today.\"",
+              "\"What color are your panties, honey.\"",
+              "\"Let's hold hands and skip around.\""
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Scenes",
+        "Data": [
+          {
+            "Performers": "Greg, Colin, Jeff, Chip, Brad"
+          },
+          {
+            "Theme": "Spiders and A melting clock"
+          }
+        ]
+      }
+    ]
+  }
+}

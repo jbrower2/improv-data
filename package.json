@@ -1,0 +1,19 @@
+{
+  "name": "improv-data",
+  "version": "0.0.1",
+  "main": "dist/cjs/index.js",
+  "module": "dist/mjs/index.js",
+  "exports": {
+    "require": "./dist/cjs/index.js",
+    "import": "./dist/mjs/index.js"
+  },
+  "scripts": {
+    "build": "rimraf dist && tsc -p tsconfig-mjs.json && tsc -p tsconfig-cjs.json && bun run fixup.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.6.0",
+    "prettier": "^3.0.3",
+    "rimraf": "^5.0.1",
+    "typescript": "^5.2.2"
+  }
+}

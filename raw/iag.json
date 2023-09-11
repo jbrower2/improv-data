@@ -1,0 +1,2956 @@
+{
+  "Improv-A-Ganza 01": {
+    "Airdate": ["11 April 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jonathan Mangum",
+      "Colin Mochrie",
+      "Greg Proops",
+      "Brad Sherwood",
+      "Ryan Stiles"
+    ],
+    "Guests": ["Wayne Brady"],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Song Styles",
+        "Data": [
+          {
+            "Singers": "Jonathan, Wayne, and Brad"
+          },
+          {
+            "About": "Valerie, a wine writer"
+          },
+          {
+            "Style": "Broadway"
+          }
+        ]
+      },
+      {
+        "Name": "Moving People",
+        "Data": [
+          {
+            "Performers": "Ryan and Jonathan"
+          },
+          {
+            "Movers from the audience": "Samara and Chris"
+          },
+          {
+            "Scene": "Belgium and Kangaroos"
+          }
+        ]
+      },
+      {
+        "Name": "Tag",
+        "AlternateName": "Freeze Tag",
+        "Data": [
+          {
+            "Starting positions": "Jumping up and down (Wayne) and Jumping Rope (Brad)"
+          }
+        ]
+      },
+      {
+        "Name": "Kick It",
+        "Data": [
+          {
+            "Performers": "Jonathan and Wayne"
+          },
+          {
+            "Scene": "Tooth collector"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 02": {
+    "Airdate": ["12 April 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jeff Davis",
+      "Chip Esten",
+      "Colin Mochrie",
+      "Greg Proops",
+      "Ryan Stiles"
+    ],
+    "Guests": ["Charlie Sheen"],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Greatest Hits",
+        "Data": [
+          {
+            "Singers": "Jeff and Chip"
+          },
+          {
+            "Pitchmen": "Colin and Ryan"
+          },
+          {
+            "Musician": "Bob"
+          },
+          {
+            "Album": "_Songs of the Farmer_"
+          },
+          {
+            "Songs": ["Jazz ballad - \"Dust Storm\""]
+          }
+        ]
+      },
+      {
+        "Name": "Show-Stopping Number",
+        "AlternateName": "Bob's Call",
+        "Data": [
+          {
+            "Performers": "Ryan and Colin"
+          },
+          {
+            "Scene": "Nurses"
+          }
+        ]
+      },
+      {
+        "Name": "Film TV and Theater Styles",
+        "AlternateName": "Options",
+        "Data": [
+          {
+            "Performers": "Colin and Drew, with Jeff"
+          },
+          {
+            "Styles": "Mexican and Italian, Horror, Kabuki, _Cats_, _Black Swan_, Very dramatic Shakespeare, Seven- and Three-word sentences, Three-word sentences from _Cats_"
+          }
+        ]
+      },
+      {
+        "Name": "Story",
+        "Data": [
+          {
+            "Conductor": "Ryan"
+          },
+          {
+            "Storytellers": "Colin, Drew, Greg, Chip, Jeff, and Charlie"
+          },
+          {
+            "Title": "_Dumbaloney_"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 03": {
+    "Airdate": ["13 April 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jeff Davis",
+      "Chip Esten",
+      "Kathy Kinney",
+      "Colin Mochrie",
+      "Brad Sherwood",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Sound Effects (with Audience Members)",
+        "Data": [
+          {
+            "Performers": "Jeff and Ryan"
+          },
+          {
+            "Audience members": "Lynnette and Cooper"
+          },
+          {
+            "Scene": "Garbage men"
+          }
+        ]
+      },
+      {
+        "Name": "Greatest Hits",
+        "AlternateName": "Hits Compilation",
+        "Data": [
+          {
+            "Singers": "Chip, Brad, and Jeff"
+          },
+          {
+            "Pitchmen": "Drew and Ryan"
+          },
+          {
+            "Musician": "Bob"
+          },
+          {
+            "Album": "_Songs of the Big Game Hunter_"
+          },
+          {
+            "Songs": ["Irish ballad - \"I Killed It in Kenya\""]
+          }
+        ]
+      },
+      {
+        "Name": "Film TV and Theater Styles",
+        "AlternateName": "Options",
+        "Data": [
+          {
+            "Performers": "Drew and Kathy"
+          },
+          {
+            "Scene": "Social worker"
+          },
+          {
+            "Style": "Vaudeville, _Kung Fu_, _Kung Fu_ vaudeville, _Zumanity_, Every word starts with \"T\", _Dirty Dancing_"
+          }
+        ]
+      },
+      {
+        "Name": "Every Other Line",
+        "AlternateName": "Playbook",
+        "Data": [
+          {
+            "Performers": "Brad and Ryan"
+          },
+          {
+            "Play": "_Six Degrees of Separation_"
+          },
+          {
+            "Scene": "Brad's coming home and he lost his job"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 04": {
+    "Airdate": ["14 April 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jonathan Mangum",
+      "Colin Mochrie",
+      "Greg Proops",
+      "Brad Sherwood",
+      "Ryan Stiles"
+    ],
+    "Guests": ["Wayne Brady"],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Tag",
+        "AlternateName": "Freeze Tag",
+        "Data": [
+          {
+            "Starting positions": "Kneeling (Jonathan) and Downward Dog (Wayne)"
+          }
+        ]
+      },
+      {
+        "Name": "Quick Change",
+        "AlternateName": "New Choice",
+        "Data": [
+          {
+            "Performers": "Drew and Ryan, with Brad"
+          },
+          {
+            "Scene": "Stone carver"
+          }
+        ]
+      },
+      {
+        "Name": "Moving People",
+        "AlternateName": "Moving Bodies",
+        "Data": [
+          {
+            "Performers": "Brad and Drew"
+          },
+          {
+            "Movers from the audience": "Kerry and Melissa"
+          },
+          {
+            "Scene": "Sausage Day in Austria"
+          }
+        ]
+      },
+      {
+        "Name": "Duet",
+        "Data": [
+          {
+            "Singers": "Wayne and Jonathan"
+          },
+          {
+            "About": "Michelle, a stay-at-home mom"
+          },
+          {
+            "Style": "Sexy soul ballad"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 05": {
+    "Airdate": ["15 April 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Heather Anne Campbell",
+      "Jeff Davis",
+      "Chip Esten",
+      "Jonathan Mangum",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Greatest Hits",
+        "Data": [
+          {
+            "Singers": "Jeff and Chip"
+          },
+          {
+            "Late night TV hosts": "Ryan and Heather"
+          },
+          {
+            "Musician": "Bob"
+          },
+          {
+            "Album": "_Songs of Bomb Disarming and Disposal_"
+          },
+          {
+            "Songs": ["Disco - \"Short Fuse\""]
+          }
+        ]
+      },
+      {
+        "Name": "First Date",
+        "Data": [
+          {
+            "Performers": "Heather and Jeff, with Jonathan, Ryan, and Chip"
+          },
+          {
+            "Couple from the audience": "Patrice and John"
+          }
+        ]
+      },
+      {
+        "Name": "Forward Rewind",
+        "AlternateName": "Forward and Reverse",
+        "Data": [
+          {
+            "Performers": "Jeff and Ryan"
+          },
+          {
+            "Scene": "Rear-ending car accident"
+          }
+        ]
+      },
+      {
+        "Name": "Quick Change",
+        "AlternateName": "New Choice",
+        "Data": [
+          {
+            "Performers": "Drew and Heather, with Jeff"
+          },
+          {
+            "Scene": "Acrobatics"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 06": {
+    "Airdate": ["18 April 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jeff Davis",
+      "Chip Esten",
+      "Colin Mochrie",
+      "Greg Proops",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Tag",
+        "AlternateName": "Freeze Tag",
+        "Data": [
+          {
+            "Starting positions": "Throwing a javelin (Greg) and Jumping Jacks (Ryan)"
+          }
+        ]
+      },
+      {
+        "Name": "Sound Effects (with Audience Members)",
+        "Data": [
+          {
+            "Performers": "Chip and Ryan"
+          },
+          {
+            "Audience members": "Cynthia and Nicole"
+          },
+          {
+            "Scene": "Firemen"
+          }
+        ]
+      },
+      {
+        "Name": "Two-Headed Expert",
+        "Data": [
+          {
+            "Expert": "Drew and Jeff"
+          },
+          {
+            "Interviewer": "Ryan and Colin"
+          },
+          {
+            "Topic": "Burlesque"
+          }
+        ]
+      },
+      {
+        "Name": "Greatest Hits",
+        "Data": [
+          {
+            "Singers": "Chip and Jeff"
+          },
+          {
+            "Pitchmen": "Ryan and Greg"
+          },
+          {
+            "Musician": "Bob"
+          },
+          {
+            "Album": "_Songs of the Lumberjack_"
+          },
+          {
+            "Songs": ["Tunes for Tots - \"Flap My Jack\""]
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 07": {
+    "Airdate": ["19 April 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jonathan Mangum",
+      "Colin Mochrie",
+      "Greg Proops",
+      "Brad Sherwood",
+      "Ryan Stiles"
+    ],
+    "Guests": ["Wayne Brady"],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Sound Effects (with Audience Members)",
+        "Data": [
+          {
+            "Performers": "Ryan and Greg"
+          },
+          {
+            "Audience members": "Robbie and Sonya"
+          },
+          {
+            "Scene": "A diamond ring"
+          }
+        ]
+      },
+      {
+        "Name": "Greatest Hits",
+        "Data": [
+          {
+            "Singers": "Brad, Wayne, and Jonathan"
+          },
+          {
+            "Pitchmen": "Greg and Colin"
+          },
+          {
+            "Musician": "Bob"
+          },
+          {
+            "Album": "_Songs of the Real Estate_"
+          },
+          {
+            "Songs": [
+              "Latin - \"Mi Casa\"",
+              "Funk - \"There's a Leak in the Bathroom and There's Only One Bedroom, Oh My\""
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Question This",
+        "Data": [
+          {
+            "Host": "Brad"
+          },
+          {
+            "Contestants": "Greg, Jonathan, Wayne, and Drew"
+          },
+          {
+            "Answers": [
+              "Sodium",
+              "Gonad",
+              "Ethiopia",
+              "Diamonds",
+              "Budapest",
+              "Miss Perch"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Film TV and Theater Styles",
+        "AlternateName": "Options",
+        "Data": [
+          {
+            "Performers": "Greg and Brad, with Colin"
+          },
+          {
+            "Scene": "A hospital"
+          },
+          {
+            "Styles": "Film noir, _Jersey Boys_, Six- and Two-word sentences, Every word that has the letter \"S\" will be substituted by the letter \"T\", Keep doing that but in _Jersey Boys_"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 08": {
+    "Airdate": ["20 April 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jeff Davis",
+      "Chip Esten",
+      "Jonathan Mangum",
+      "Greg Proops",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Duet",
+        "Data": [
+          {
+            "Singers": "Jonathan and Jeff"
+          },
+          {
+            "About": "Pam, a lawyer"
+          },
+          {
+            "Style": "60s soul"
+          }
+        ]
+      },
+      {
+        "Name": "Film TV and Theater Styles",
+        "AlternateName": "Options",
+        "Data": [
+          {
+            "Performers": "Greg and Chip, with Jeff"
+          },
+          {
+            "Scene": "Christmas department store displays"
+          },
+          {
+            "Styles": "Happy, Woody Allen film, Haiku, Balzac, Oscar Wilde, Woody Allen - Oscar Wilde, Train, Jack Nicholson and Mel Gibson, _Cujo_"
+          }
+        ]
+      },
+      {
+        "Name": "Forward Rewind",
+        "AlternateName": "Forward and Reverse",
+        "Data": [
+          {
+            "Performers": "Drew, Jeff, Jonathan, and Chip, with Ryan"
+          },
+          {
+            "Scene": "Butterfly cards"
+          }
+        ]
+      },
+      {
+        "Name": "Whose Line?",
+        "AlternateName": "Sentences",
+        "Data": [
+          {
+            "Performers": "Greg and Jonathan"
+          },
+          {
+            "Scene": "The soap opera, _As the Jack Flaps_"
+          },
+          {
+            "Sentences": [
+              "\"Man's first massage with beautiful female\"",
+              "\"I have been waiting for you all my life.\"",
+              "_[\"something racist that I won't repeat onstage\"]_",
+              "\"Why are there mullets around?\"",
+              "\"So why did you divorce her anyway?\"",
+              "\"So this Jew walks into a bar.\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 09": {
+    "Airdate": ["21 April 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Heather Anne Campbell",
+      "Jeff Davis",
+      "Chip Esten",
+      "Jonathan Mangum",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Moving People",
+        "Data": [
+          {
+            "Performers": "Ryan and Jonathan"
+          },
+          {
+            "Movers from the audience": "Julie and Jim"
+          },
+          {
+            "Scene": "Lifetime in Tahiti"
+          }
+        ]
+      },
+      {
+        "Name": "Question This",
+        "Data": [
+          {
+            "Host": "Chip"
+          },
+          {
+            "Contestants": "Jonathan, Heather, Drew, and Ryan"
+          },
+          {
+            "Answers": [
+              "Mozzarella",
+              "Medulla oblongatta",
+              "Keno",
+              "Dreamsicle",
+              "People",
+              "Albania",
+              "Quagmire"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Sound Effects (with Audience Members)",
+        "Data": [
+          {
+            "Performers": "Chip and Jeff"
+          },
+          {
+            "Audience members": "Judy and Misty"
+          },
+          {
+            "Scene": "Ranchers"
+          }
+        ]
+      },
+      {
+        "Name": "Whose Line?",
+        "AlternateName": "Sentences",
+        "Data": [
+          {
+            "Performers": "Jeff and Heather"
+          },
+          {
+            "Scene": "The soap opera, _Can I Ask a Friend?_, set in Jaime Falls"
+          },
+          {
+            "Sentences": [
+              "\"That is an odd smell.\"",
+              "\"Are there spinsters with benefits?\"",
+              "\"Branding and castration\"",
+              "\"Your fly is open.\"",
+              "\"Elk are running uphill in front of me.\"",
+              "\"I saw Elvis walking down the street.\"",
+              "\"I'm so drunk.\"",
+              "\"I met a man from Nantucket.\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 10": {
+    "Airdate": ["22 April 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Kathy Kinney",
+      "Jonathan Mangum",
+      "Sean Masterson",
+      "Greg Proops",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Whose Line?",
+        "AlternateName": "Sentences",
+        "Data": [
+          {
+            "Performers": "Jonathan and Ryan, with Kathy"
+          },
+          {
+            "Scene": "The soap opera, _The Bachelorette_"
+          },
+          {
+            "Sentences": [
+              "\"I drank some sweet tea.\"",
+              "\"I'm a raging alcoholic.\"",
+              "\"The long and winding road\"",
+              "\"Scruffy nerf-herder\"",
+              "\"Do you think the dog farted?\"",
+              "\"Meat raffle\""
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Quick Change",
+        "AlternateName": "New Choice",
+        "Data": [
+          {
+            "Performers": "Sean and Kathy, with Drew"
+          },
+          {
+            "Scene": "At a fitness place"
+          }
+        ]
+      },
+      {
+        "Name": "Mousetraps",
+        "Data": [
+          {
+            "Performers": "Sean and Drew"
+          },
+          {
+            "Scene": "World War II"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 11": {
+    "Airdate": ["25 April 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Heather Anne Campbell",
+      "Jeff Davis",
+      "Chip Esten",
+      "Jonathan Mangum",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Tag",
+        "AlternateName": "Freeze Tag",
+        "Data": [
+          {
+            "Starting positions": "Lotus (Heather) and Fetal (Ryan)"
+          }
+        ]
+      },
+      {
+        "Name": "Duet",
+        "Data": [
+          {
+            "Singers": "Chip and Jonathan"
+          },
+          {
+            "About": "Tammy, a retired nurse"
+          },
+          {
+            "Style": "Rock ballad"
+          }
+        ]
+      },
+      {
+        "Name": "Film TV and Theater Styles",
+        "AlternateName": "Options",
+        "Data": [
+          {
+            "Performers": "Drew and Jeff, with Chip"
+          },
+          {
+            "Scene": "Camping and gambling"
+          },
+          {
+            "Styles": "Romantic comedy, Sci-fi, MTV, Australia and Italy, Shakespeare, Western, Three- and Twelve-word sentences of Shakespeare"
+          }
+        ]
+      },
+      {
+        "Name": "Two-Headed Expert",
+        "Data": [
+          {
+            "Expert": "Chip and Jonathan"
+          },
+          {
+            "Interviewer": "Drew and Heather"
+          },
+          {
+            "Scene": "At the Eiffel Tower"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 12": {
+    "Airdate": ["26 April 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jeff Davis",
+      "Chip Esten",
+      "Jonathan Mangum",
+      "Greg Proops",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Tag",
+        "AlternateName": "Freeze",
+        "Data": [
+          {
+            "Starting positions": "On hands and knees (Jonathan) and Fetal (Jeff)"
+          }
+        ]
+      },
+      {
+        "Name": "Whose Line?",
+        "AlternateName": "Sentences",
+        "Data": [
+          {
+            "Performers": "Jonathan and Ryan"
+          },
+          {
+            "Scenes": "The Ice Age"
+          },
+          {
+            "Sentences": [
+              "\"You remind me of...\"",
+              "\"Man, I feel like a woman.\"",
+              "\"Have you gained weight?\"",
+              "\"I can't believe my man is cougar material.\"",
+              "\"Purple monkeys in the tree\"",
+              "\"I can't believe you are really boy Yentl.\"",
+              "\"Would you like to watch the Jets lose tomorrow?\""
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "First Date",
+        "Data": [
+          {
+            "Performers": "Jeff and Jonathan, with Greg, Drew, Ryan, and Chip"
+          },
+          {
+            "Couple from the audience": "Matt and Gerry"
+          }
+        ]
+      },
+      {
+        "Name": "Duet",
+        "Data": [
+          {
+            "Singers": "Chip and Jeff"
+          },
+          {
+            "About": "Sandy, a real estate manager"
+          },
+          {
+            "Style": "Country swing"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 13": {
+    "Airdate": ["27 April 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jonathan Mangum",
+      "Colin Mochrie",
+      "Greg Proops",
+      "Brad Sherwood",
+      "Ryan Stiles"
+    ],
+    "Guests": ["Wayne Brady"],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Forward Rewind",
+        "AlternateName": "Forward Reverse",
+        "Data": [
+          {
+            "Performers": "Wayne and Jonathan"
+          },
+          {
+            "Scene": "Ancient history"
+          }
+        ]
+      },
+      {
+        "Name": "Every Other Line",
+        "AlternateName": "Playbook",
+        "Data": [
+          {
+            "Performers": "Colin and Drew"
+          },
+          {
+            "Scene": "Dungeons and Dragons"
+          },
+          {
+            "Play": "_Six Degrees of Separation_"
+          }
+        ]
+      },
+      {
+        "Name": "Greatest Hits",
+        "Data": [
+          {
+            "Singers": "Wayne, Jonathan, and Brad"
+          },
+          {
+            "Pitchmen": "Ryan and Colin"
+          },
+          {
+            "Musician": "Bob"
+          },
+          {
+            "Album": "_The Greatest Hits of the Unemployed_"
+          },
+          {
+            "Songs": ["Motown - \"I'm Growin' Weed\""]
+          }
+        ]
+      },
+      {
+        "Name": "Sound Effects (with Audience Members)",
+        "Data": [
+          {
+            "Performers": "Colin and Greg"
+          },
+          {
+            "Audience members": "Tanya and Karla"
+          },
+          {
+            "Scene": "Racecar driver"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 14": {
+    "Airdate": ["28 April 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jeff Davis",
+      "Chip Esten",
+      "Kathy Kinney",
+      "Colin Mochrie",
+      "Brad Sherwood",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Tag",
+        "AlternateName": "Freeze",
+        "Data": [
+          {
+            "Starting positions": "Tennis pro (Colin) and Supermodel (Brad)"
+          }
+        ]
+      },
+      {
+        "Name": "Duet",
+        "Data": [
+          {
+            "Singers": "Brad and Chip"
+          },
+          {
+            "About": "Wendy, a nurse"
+          },
+          {
+            "Style": "Broadway"
+          }
+        ]
+      },
+      {
+        "Name": "Show-Stopping Number",
+        "AlternateName": "Bob's Call",
+        "Data": [
+          {
+            "Performers": "Jeff and Kathy"
+          },
+          {
+            "Scene": "Skydiving"
+          }
+        ]
+      },
+      {
+        "Name": "Quick Change",
+        "AlternateName": "New Choice",
+        "Data": [
+          {
+            "Performers": "Colin and Ryan, with Brad"
+          },
+          {
+            "Scene": "A cyclops"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 15": {
+    "Airdate": ["29 April 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Kathy Kinney",
+      "Jonathan Mangum",
+      "Sean Masterson",
+      "Greg Proops",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Film TV and Theater Styles",
+        "AlternateName": "Options",
+        "Data": [
+          {
+            "Performers": "Ryan and Greg, with Jonathan"
+          },
+          {
+            "Scene": "Racing sports cars"
+          },
+          {
+            "Styles": "Western, Romance, Spielberg, _The Bible_, 80s music"
+          }
+        ]
+      },
+      {
+        "Name": "Two-Headed Expert",
+        "Data": [
+          {
+            "Expert": "Drew and Kathy"
+          },
+          {
+            "Interviewer": "Jonathan and Sean"
+          },
+          {
+            "Scene": "A bathroom in North Dakota"
+          }
+        ]
+      },
+      {
+        "Name": "Tag",
+        "AlternateName": "Freeze Tag",
+        "Data": [
+          {
+            "Starting positions": "Leapfrog (Ryan) and Push-up (Greg)"
+          }
+        ]
+      },
+      {
+        "Name": "Duet",
+        "Data": [
+          {
+            "Singers": "Greg and Jonathan"
+          },
+          {
+            "About": "Sylvia, a reflexologist"
+          },
+          {
+            "Style": "Jazz"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 16": {
+    "Airdate": ["2 May 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Heather Anne Campbell",
+      "Jeff Davis",
+      "Chip Esten",
+      "Jonathan Mangum",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Film TV and Theater Styles",
+        "AlternateName": "Options",
+        "Data": [
+          {
+            "Performers": "Chip and Heather, with Jonathan"
+          },
+          {
+            "Scene": "A sweeper truck"
+          },
+          {
+            "Options": "Western, Spanish, Silent film, Silent Spanish, Dr. Seuss, Spanish Dr. Seuss, Horror, Shakespeare"
+          }
+        ]
+      },
+      {
+        "Name": "Two-Headed Expert",
+        "Data": [
+          {
+            "Expert": "Drew and Jonathan"
+          },
+          {
+            "Other expert": "Heather and Chip"
+          },
+          {
+            "Scene": "A mortician convention in Cancun"
+          }
+        ]
+      },
+      {
+        "Name": "Duet",
+        "Data": [
+          {
+            "Singers": "Jonathan and Jeff"
+          },
+          {
+            "About": "Jordan, a student of psychology"
+          },
+          {
+            "Style": "Opera"
+          }
+        ]
+      },
+      {
+        "Name": "Story",
+        "Data": [
+          {
+            "Leader": "Ryan"
+          },
+          {
+            "Storytellers": "Heather, Drew, Jonathan, Jeff, and Chip"
+          },
+          {
+            "Title": "_The Green Giant Flies Away_"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 17": {
+    "Airdate": ["3 May 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Heather Anne Campbell",
+      "Jeff Davis",
+      "Chip Esten",
+      "Jonathan Mangum",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Duet",
+        "Data": [
+          {
+            "Singers": "Jonathan and Jeff"
+          },
+          {
+            "About": "Jeannie, who is retired and horny"
+          },
+          {
+            "Style": "Bossa nova"
+          }
+        ]
+      },
+      {
+        "Name": "Sound Effects (with Audience Members)",
+        "Data": [
+          {
+            "Performers": "Heather and Jeff"
+          },
+          {
+            "Audience members": "Dylan and Ken"
+          },
+          {
+            "Scene": "Moose hunting"
+          }
+        ]
+      },
+      {
+        "Name": "Whose Line?",
+        "AlternateName": "Sentences",
+        "Data": [
+          {
+            "Performers": "Ryan and Drew"
+          },
+          {
+            "Scene": "The fishing soap opera, _As the Worm Flies_"
+          },
+          {
+            "Sentences": [
+              "\"Let's run away together.\"",
+              "\"I love Mickey Mouse.\"",
+              "\"I think you're my future ex-wife.\"",
+              "\"Man, that thing is huge.\"",
+              "\"Did you remember the tickets?\"",
+              "\"Where's the toilet?\"",
+              "\"How would you like to create a new version of Frankenstein with me?\""
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Quick Change",
+        "AlternateName": "New Choice",
+        "Data": [
+          {
+            "Performers": "Drew and Chip, with Ryan"
+          },
+          {
+            "Scene": "At the Lazy Bend Ranch"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 18": {
+    "Airdate": ["4 May 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jeff Davis",
+      "Chip Esten",
+      "Colin Mochrie",
+      "Greg Proops",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Moving People",
+        "AlternateName": "Moving Bodies",
+        "Data": [
+          {
+            "Performers": "Drew and Greg"
+          },
+          {
+            "Movers from the audience": "Katherine and Rob"
+          },
+          {
+            "Scene": "A day at the racquetball court"
+          }
+        ]
+      },
+      {
+        "Name": "Quick Change",
+        "AlternateName": "New Choice",
+        "Data": [
+          {
+            "Performers": "Colin and Ryan, with Jeff"
+          },
+          {
+            "Scene": "A school fundraiser"
+          }
+        ]
+      },
+      {
+        "Name": "Question This",
+        "Data": [
+          {
+            "Host": "Ryan"
+          },
+          {
+            "Contestants": "Colin, Greg, Drew, and Jeff"
+          },
+          {
+            "Answers": [
+              "Winnemucca",
+              "Radon",
+              "Tahiti",
+              "Femur",
+              "Lederhosen",
+              "Pluto",
+              "Ex-Lax",
+              "Prius"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Story",
+        "Data": [
+          {
+            "Leader": "Ryan"
+          },
+          {
+            "Storytellers": "Colin, Drew, Greg, Chip, and Jeff"
+          },
+          {
+            "Title": "_The Pig, the Cow, and Yesterday Evening_"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 19": {
+    "Airdate": ["5 May 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jonathan Mangum",
+      "Colin Mochrie",
+      "Greg Proops",
+      "Brad Sherwood",
+      "Ryan Stiles"
+    ],
+    "Guests": ["Wayne Brady"],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Film TV and Theater Styles",
+        "AlternateName": "Options",
+        "Data": [
+          {
+            "Performers": "Colin and Drew"
+          },
+          {
+            "Scene": "Gynecology and Hair transplants"
+          },
+          {
+            "Options": "High drama, French, _The Flintstones_, Horror"
+          }
+        ]
+      },
+      {
+        "Name": "Quick Change",
+        "AlternateName": "New Choice",
+        "Data": [
+          {
+            "Performers": "Ryan and Greg, with Jonathan"
+          },
+          {
+            "Scene": "A writer or transplant coordinator"
+          }
+        ]
+      },
+      {
+        "Name": "Two-Headed Expert",
+        "AlternateName": "Two-Headed",
+        "Data": [
+          {
+            "Expert": "Greg and Drew"
+          },
+          {
+            "Interviewer": "Brad and Colin"
+          },
+          {
+            "Scene": "In an amusement park"
+          }
+        ]
+      },
+      {
+        "Name": "Whose Line?",
+        "AlternateName": "Sentences",
+        "Data": [
+          {
+            "Performers": "Ryan and Colin"
+          },
+          {
+            "Scene": "The soap opera, _Mi Flaming Corazon_"
+          },
+          {
+            "Sentences": [
+              "\"Kitties\"",
+              "\"I like boys!\"",
+              "\"Tell the guy in the blue shirt 'Stop yawning.'\"",
+              "\"What's up, bitch?\"",
+              "\"Super Bowl\"",
+              "\"How's it hanging?\"",
+              "\"I will hold the raccoon in my teeth.\"",
+              "\"Bend over, I think you have something on your butt.\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 20": {
+    "Airdate": ["6 May 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Kathy Kinney",
+      "Jonathan Mangum",
+      "Sean Masterson",
+      "Greg Proops",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Sound Effects (with Audience Members)",
+        "Data": [
+          {
+            "Performers": "Kathy and Ryan"
+          },
+          {
+            "Audience members": "Paul and Kori"
+          },
+          {
+            "Scene": "Garbagemen"
+          }
+        ]
+      },
+      {
+        "Name": "Kick It",
+        "Data": [
+          {
+            "Performers": "Greg and Jonathan, with Ryan"
+          },
+          {
+            "Scene": "An exotic dancer"
+          }
+        ]
+      },
+      {
+        "Name": "Forward Rewind",
+        "AlternateName": "Forward Reverse",
+        "Data": [
+          {
+            "Performers": "Drew and Sean, with Jonathan"
+          },
+          {
+            "Scene": "Air conditioning trade show"
+          }
+        ]
+      },
+      {
+        "Name": "Mousetraps",
+        "Data": [
+          {
+            "Performers": "Jonathan and Sean"
+          },
+          {
+            "Scene": "Folding laundry"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 21": {
+    "Airdate": ["9 May 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Heather Anne Campbell",
+      "Jeff Davis",
+      "Chip Esten",
+      "Jonathan Mangum",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Film TV and Theater Styles",
+        "AlternateName": "Options",
+        "Data": [
+          {
+            "Performers": "Jonathan and Drew"
+          },
+          {
+            "Scene": "Nursing"
+          },
+          {
+            "Options": "Kabuki, Quentin Tarantino, Kazakhstan, Kazakhstan Tarantino, Broadway musical, Kazakhstan Tarantino musical, Three- and Eight-word sentences, Victorian, Kazakhstan Victorian, 1980s, Western, _The Princess Bride_, Horror, Sportsbook, Edgar Allan Poe, Shel Silverstein, Dr. Seuss"
+          }
+        ]
+      },
+      {
+        "Name": "Forward Rewind",
+        "AlternateName": "Forward and Reverse",
+        "Data": [
+          {
+            "Performers": "Jeff, Ryan, Chip, and Jonathan, with Drew"
+          },
+          {
+            "Scene": "A weekend away at Cabo St. Lucas"
+          }
+        ]
+      },
+      {
+        "Name": "Show-Stopping Number",
+        "AlternateName": "Bob's Call",
+        "Data": [
+          {
+            "Performers": "Chip and Drew"
+          },
+          {
+            "Scene": "Transformers collectors"
+          }
+        ]
+      },
+      {
+        "Name": "Greatest Hits",
+        "Data": [
+          {
+            "Singers": "Jonathan, Jeff, and Chip"
+          },
+          {
+            "Pitchmen": "Heather, Drew, (and Ryan)"
+          },
+          {
+            "Musician": "Bob"
+          },
+          {
+            "Album": "_Greatest Hits of the Executioner_"
+          },
+          {
+            "Songs": ["Old school rap - \"Lethal Injection\""]
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 22": {
+    "Airdate": ["10 May 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jeff Davis",
+      "Chip Esten",
+      "Jonathan Mangum",
+      "Greg Proops",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Quick Change",
+        "AlternateName": "New Choice",
+        "Data": [
+          {
+            "Performers": "Greg and Ryan, with Jeff"
+          },
+          {
+            "Scene": "Pumpkins and motherhood"
+          }
+        ]
+      },
+      {
+        "Name": "Film TV and Theater Styles",
+        "AlternateName": "Options",
+        "Data": [
+          {
+            "Performers": "Jonathan and Drew"
+          },
+          {
+            "Scene": "In jail on Devil's Island"
+          },
+          {
+            "Options": "Horror, Poetry, Horror again, Scorsese, The 1750s, Kabuki, Food Network, Discovery Channel, Shakespeare"
+          }
+        ]
+      },
+      {
+        "Name": "Moving People",
+        "Data": [
+          {
+            "Performers": "Drew and Chip"
+          },
+          {
+            "Movers from the audience": "Erin and Jen"
+          },
+          {
+            "Scene": "Tennis players"
+          }
+        ]
+      },
+      {
+        "Name": "Greatest Hits",
+        "Data": [
+          {
+            "Singers": "Chip, Jonathan, and Jeff"
+          },
+          {
+            "Pitchmen": "Ryan, Drew, and Greg"
+          },
+          {
+            "Musician": "Bob"
+          },
+          {
+            "Album": "_Hits of the Dietician_"
+          },
+          {
+            "Songs": ["Bob Marley - \"Saturated Fat\""]
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 23": {
+    "Airdate": ["11 May 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jeff Davis",
+      "Chip Esten",
+      "Kathy Kinney",
+      "Colin Mochrie",
+      "Brad Sherwood",
+      "Ryan Stiles"
+    ],
+    "Guests": ["Rich Fields", "Steve Kamer"],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Two-Headed Expert",
+        "Data": [
+          {
+            "Expert": "Ryan and Jeff"
+          },
+          {
+            "Interviewer": "Colin and Brad"
+          },
+          {
+            "Scene": "Organic chemistry"
+          }
+        ]
+      },
+      {
+        "Name": "Tag",
+        "AlternateName": "Freeze Tag",
+        "Data": [
+          {
+            "Starting positions": "Missionary (Colin) and Jumping jacks (Drew)"
+          }
+        ]
+      },
+      {
+        "Name": "Sound Effects (with Audience Members)",
+        "Data": [
+          {
+            "Performers": "Drew and Brad"
+          },
+          {
+            "Audience members": "Rich and Steve"
+          },
+          {
+            "Scene": "Alexander's burning of Persepolis"
+          }
+        ]
+      },
+      {
+        "Name": "Film TV and Theater Styles",
+        "AlternateName": "Options",
+        "Data": [
+          {
+            "Performers": "Colin and Drew, with Brad"
+          },
+          {
+            "Scene": "Sewing machines"
+          },
+          {
+            "Options": "Shakespeare, Dr. Seuss, French dialect, Kabuki, Kabuki Dr. Seuss"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 24": {
+    "Airdate": ["12 May 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Heather Anne Campbell",
+      "Jeff Davis",
+      "Chip Esten",
+      "Jonathan Mangum",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Quick Change",
+        "AlternateName": "New Choice",
+        "Data": [
+          {
+            "Performers": "Ryan and Heather, with Jonathan"
+          },
+          {
+            "Scene": "Mechanical drafting"
+          }
+        ]
+      },
+      {
+        "Name": "Duet",
+        "Data": [
+          {
+            "Singers": "Jeff and Chip"
+          },
+          {
+            "About": "Barbara, an ophthalmology receptionist"
+          },
+          {
+            "Style": "Soul ballad"
+          }
+        ]
+      },
+      {
+        "Name": "Tag",
+        "AlternateName": "Freeze Tag",
+        "Data": [
+          {
+            "Starting positions": "On his knees (Jeff) and Downward-Facing Dog (Jonathan)"
+          }
+        ]
+      },
+      {
+        "Name": "Whose Line?",
+        "AlternateName": "Sentences",
+        "Data": [
+          {
+            "Performers": "Drew and Ryan"
+          },
+          {
+            "Scene": "Librarian"
+          },
+          {
+            "Sentences": [
+              "\"It itches so bad.\"",
+              "\"Where is my White Russian?\"",
+              "\"You've got something in your teeth.\"",
+              "\"I have hemorrhoids.\"",
+              "\"I am ready to dance.\"",
+              "\"Is that a pickle in your pocket, or are you just happy to see me?\"",
+              "\"Where's my fart pants?\"",
+              "\"Steal candy from a baby's mouth.\"",
+              "\"The moment I met you I knew you were the one.\"",
+              "\"So how old did you say you are?\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 25": {
+    "Airdate": ["13 May 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jeff Davis",
+      "Chip Esten",
+      "Kathy Kinney",
+      "Colin Mochrie",
+      "Brad Sherwood",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Duet",
+        "Data": [
+          {
+            "Singers": "Chip, Jeff, and Brad"
+          },
+          {
+            "About": "Belinda, a bartender"
+          },
+          {
+            "Style": "Sexy cool jazz"
+          }
+        ]
+      },
+      {
+        "Name": "Whose Line?",
+        "AlternateName": "Sentences",
+        "Data": [
+          {
+            "Performers": "Ryan and Chip"
+          },
+          {
+            "Scene": "_Welcome to Hell_"
+          },
+          {
+            "Sentences": [
+              "\"Not tonight honey, I have a headache.\"",
+              "\"How many licks does it take to get to the center?\"",
+              "\"From behind?\""
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Quick Change",
+        "AlternateName": "New Choice",
+        "Data": [
+          {
+            "Performers": "Ryan and Kathy, with Colin"
+          },
+          {
+            "Scene": "Lost the keys to the car"
+          }
+        ]
+      },
+      {
+        "Name": "Greatest Hits",
+        "Data": [
+          {
+            "Singers": "Brad, Jeff, and Chip"
+          },
+          {
+            "Pitchmen": "Drew and Colin"
+          },
+          {
+            "Musician": "Bob"
+          },
+          {
+            "Album": "_The Best of the Hog Farmer_"
+          },
+          {
+            "Songs": [
+              "Country swing - \"Sooey!\"",
+              "French - \"Our Love Is Like Pork\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 26": {
+    "Airdate": ["16 May 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jeff Davis",
+      "Chip Esten",
+      "Jonathan Mangum",
+      "Greg Proops",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Moving People",
+        "Data": [
+          {
+            "Performers": "Ryan and Jeff"
+          },
+          {
+            "Movers from the audience": "Sarah and Tapley"
+          },
+          {
+            "Scene": "Make the bed"
+          }
+        ]
+      },
+      {
+        "Name": "Sound Effects (with Audience Members)",
+        "Data": [
+          {
+            "Performers": "Chip and Drew"
+          },
+          {
+            "Audience members": "Krista and Luke"
+          },
+          {
+            "Scene": "Kitchen and Electron"
+          }
+        ]
+      },
+      {
+        "Name": "Tag",
+        "AlternateName": "Freeze",
+        "Data": [
+          {
+            "Starting positions": "Yoga (Jonathan) and Downward Dog (Jeff)"
+          }
+        ]
+      },
+      {
+        "Name": "Greatest Hits",
+        "Data": [
+          {
+            "Singers": "Jeff, Jonathan, and Chip"
+          },
+          {
+            "Pitchmen": "Ryan, Greg, and Drew"
+          },
+          {
+            "Musician": "Bob"
+          },
+          {
+            "Album": "_Songs of the Stripper_"
+          },
+          {
+            "Songs": ["Elizabethan - \"You Gotta Tip Me a Twenty\""]
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 27": {
+    "Airdate": ["17 May 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Heather Anne Campbell",
+      "Jeff Davis",
+      "Chip Esten",
+      "Jonathan Mangum",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Show-Stopping Number",
+        "AlternateName": "Bob's Call",
+        "Data": [
+          {
+            "Performers": "Jeff and Ryan"
+          },
+          {
+            "Scene": "Shoe collecting"
+          }
+        ]
+      },
+      {
+        "Name": "Forward Rewind",
+        "AlternateName": "Forward and Reverse",
+        "Data": [
+          {
+            "Performers": "Drew and Jonathan, with Jeff"
+          },
+          {
+            "Scene": "Janitorial services"
+          }
+        ]
+      },
+      {
+        "Name": "Film TV and Theater Styles",
+        "AlternateName": "Options",
+        "Data": [
+          {
+            "Performers": "Ryan and Heather"
+          },
+          {
+            "Scene": "On the farm"
+          },
+          {
+            "Options": "Film noir, _Star Wars_ science fiction, Romantic literature, Horror, French, _Star Wars_ French, Hip hop, Three- and Seven-word sentences, Hip hop three- and seven-word sentences"
+          }
+        ]
+      },
+      {
+        "Name": "Greatest Hits",
+        "Data": [
+          {
+            "Singers": "Chip and Jeff"
+          },
+          {
+            "Pitchmen": "Ryan and Jonathan"
+          },
+          {
+            "Musician": "Bob"
+          },
+          {
+            "Album": "_Songs of the Stockbroker_"
+          },
+          {
+            "Songs": ["Memphis soul - \"Bailout\""]
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 28": {
+    "Airdate": ["18 May 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jeff Davis",
+      "Chip Esten",
+      "Kathy Kinney",
+      "Colin Mochrie",
+      "Brad Sherwood",
+      "Ryan Stiles"
+    ],
+    "Guests": ["Rachel Reynolds", "Manuela Arbeláez", "Gwendolyn Osborne"],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Song Styles",
+        "Data": [
+          {
+            "Singers": "Chip, Jeff, and Brad"
+          },
+          {
+            "About": "Michelle, an accountant"
+          },
+          {
+            "Style": "Country waltz"
+          }
+        ]
+      },
+      {
+        "Name": "Moving People",
+        "AlternateName": "Moving Bodies",
+        "Data": [
+          {
+            "Performers": "Drew, Colin, and Ryan"
+          },
+          {
+            "Movers": "Rachel, Manuela, and Gwendolyn"
+          },
+          {
+            "Scene": "Fencing"
+          }
+        ]
+      },
+      {
+        "Name": "Quick Change",
+        "AlternateName": "New Choice",
+        "Data": [
+          {
+            "Performers": "Colin and Kathy, with Jeff"
+          },
+          {
+            "Scene": "A Las Vegas sightseeing tour"
+          }
+        ]
+      },
+      {
+        "Name": "Kick It",
+        "Data": [
+          {
+            "Performers": "Brad and Chip, with Colin"
+          },
+          {
+            "Scene": "A nail tech"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 29": {
+    "Airdate": ["19 May 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jeff Davis",
+      "Chip Esten",
+      "Colin Mochrie",
+      "Greg Proops",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Duet",
+        "Data": [
+          {
+            "Singers": "Jeff and Chip"
+          },
+          {
+            "About": "Diane, a mortgage broker"
+          },
+          {
+            "Style": "Neil Diamond"
+          }
+        ]
+      },
+      {
+        "Name": "Question This",
+        "Data": [
+          {
+            "Host": "Greg"
+          },
+          {
+            "Contestants": "Ryan, Drew, Chip, Jeff"
+          },
+          {
+            "Answers": [
+              "Kumquat",
+              "Ferrari",
+              "Cucumbers",
+              "Ubiquitous",
+              "New Jersey",
+              "Dice",
+              "Silicone",
+              "Hummus"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Tag",
+        "AlternateName": "Freeze Tag",
+        "Data": [
+          {
+            "Starting positions": "Hacky sack (Greg) and Macarena (Jeff)"
+          }
+        ]
+      },
+      {
+        "Name": "Whose Line?",
+        "AlternateName": "Sentences",
+        "Data": [
+          {
+            "Performers": "Drew and Jeff"
+          },
+          {
+            "Scene": "The dungeon soap opera, _Into the Depths_"
+          },
+          {
+            "Sentences": [
+              "\"Get in there!\"",
+              "\"It's tee-shirt time!\"",
+              "\"Follow the yellow brick road.\"",
+              "\"Hello, angels, my name is Charlie.\"",
+              "\"At night, I turn into a ravenous boa constrictor.\"",
+              "\"Frankly, my dear, I don't give a damn.\"",
+              "\"I just love Christopher Walken.\"",
+              "\"There can be only one.\"",
+              "\"Let's breakdance.\"",
+              "\"Pass the soap, please.\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 30": {
+    "Airdate": ["20 May 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jeff Davis",
+      "Chip Esten",
+      "Kathy Kinney",
+      "Colin Mochrie",
+      "Brad Sherwood",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Whose Line?",
+        "AlternateName": "Sentences",
+        "Data": [
+          {
+            "Performers": "Jeff and Ryan"
+          },
+          {
+            "Scene": "The soap opera, _Airports_"
+          },
+          {
+            "Sentences": [
+              "\"Once you pop, you can't stop.\"",
+              "\"I love sex butt.\"",
+              "\"Is it always your octopus?\"",
+              "\"I love you sweetie.  Are you coming home now?\"",
+              "\"I love to eat crab legs in the buffet.\"",
+              "\"Those aren't pillows.\"",
+              "\"Mommy loves her baby.\"",
+              "\"What we have here is a failure to communicate.\"",
+              "\"I forgot to manscape.  You might not wanna look down there.\"",
+              "\"And he spiked me.  Give me a chicken salad sandwich.\""
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "First Date",
+        "Data": [
+          {
+            "Performers": "Kathy and Brad, with Ryan"
+          },
+          {
+            "Couple from the audience": "Callie and John"
+          }
+        ]
+      },
+      {
+        "Name": "Sound Effects (with Audience Members)",
+        "Data": [
+          {
+            "Performers": "Colin and Drew"
+          },
+          {
+            "Audience members": "John and Barbara"
+          },
+          {
+            "Scene": "Zookeeper"
+          }
+        ]
+      },
+      {
+        "Name": "Greatest Hits",
+        "Data": [
+          {
+            "Singers": "Chip and Jeff"
+          },
+          {
+            "Pitchmen": "Ryan and Drew"
+          },
+          {
+            "Musician": "Bob"
+          },
+          {
+            "Album": "_Songs of the Gold Miner_"
+          },
+          {
+            "Songs": ["Motown - \"I Chip, You Dig\""]
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 31": {
+    "Airdate": ["23 May 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jeff Davis",
+      "Chip Esten",
+      "Kathy Kinney",
+      "Colin Mochrie",
+      "Brad Sherwood"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Greatest Hits",
+        "Data": [
+          {
+            "Singers": "Brad and Jeff"
+          },
+          {
+            "Pitchmen": "Colin and Chip"
+          },
+          {
+            "Musician": "Bob"
+          },
+          {
+            "Album": "_Songs of the Lawyer_"
+          },
+          {
+            "Songs": ["Reggae - \"Objection Overruled\""]
+          }
+        ]
+      },
+      {
+        "Name": "Sound Effects (with Audience Members)",
+        "Data": [
+          {
+            "Performers": "Colin and Brad"
+          },
+          {
+            "Audience members": "Diane and Zack"
+          },
+          {
+            "Scene": "A lumberjack"
+          }
+        ]
+      },
+      {
+        "Name": "Whose Line?",
+        "AlternateName": "Sentences",
+        "Data": [
+          {
+            "Performers": "Drew and Kathy"
+          },
+          {
+            "Scene": "The soap opera, _Slept with My Boss_"
+          },
+          {
+            "Sentences": [
+              "\"How do you make a woman happy?\"",
+              "\"What the Hell are you?\"",
+              "\"If I had more confidence I don't think I would have gotten this penile implant.\"",
+              "\"Is that a banana in you pocket?\"",
+              "\"What the Hell is up with these leafs?\"",
+              "\"I smell cheese.\"",
+              "\"The price is wrong.\""
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Two-Headed Expert",
+        "Data": [
+          {
+            "Expert": "Kathy and Chip"
+          },
+          {
+            "Interviewer": "Jeff and Drew"
+          },
+          {
+            "Scene": "In a science class"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 32": {
+    "Airdate": ["24 May 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jeff Davis",
+      "Chip Esten",
+      "Kathy Kinney",
+      "Colin Mochrie",
+      "Brad Sherwood"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Greatest Hits",
+        "Data": [
+          {
+            "Singers": "Chip and Brad"
+          },
+          {
+            "Pitchmen": "Jeff and Colin"
+          },
+          {
+            "Musician": "Bob"
+          },
+          {
+            "Album": "_Songs about Steelworkers_"
+          },
+          {
+            "Songs": [
+              "Mambo - \"Our Love is Like Hot Rivets in the Pants\"",
+              "70s rock and roll power ballad - \"Blowin' My Stack\""
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Whose Line?",
+        "AlternateName": "Sentences",
+        "Data": [
+          {
+            "Performers": "Chip and Jeff, with Colin"
+          },
+          {
+            "Scene": "The soap opera, _My Revolving World_"
+          },
+          {
+            "Sentences": [
+              "\"So what's the big thing about working for TSA?\"",
+              "\"What the heck is that smell?\"",
+              "\"Will you pay our bar bill?\"",
+              "\"Those aren't pillows.\"",
+              "\"Darling, you know I care for you, but that really is ghastly.\"",
+              "\"My son is a velociraptor who plays the banjo.\"",
+              "\"I am Dr. Napkinface.\"",
+              "\"I know you think you look good, but you really need to work on that hair.\"",
+              "\"You think losing weight is hard for a man?  Try being a woman, where the fat stays.\""
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Show-Stopping Number",
+        "AlternateName": "Bob's Call",
+        "Data": [
+          {
+            "Performers": "Colin and Kathy"
+          },
+          {
+            "Scene": "A gondola"
+          }
+        ]
+      },
+      {
+        "Name": "Moving People",
+        "AlternateName": "Moving Bodies",
+        "Data": [
+          {
+            "Performers": "Drew and Brad"
+          },
+          {
+            "Movers from the audience": "Terry and Mark"
+          },
+          {
+            "Scene": "Something involving the ocean"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 33": {
+    "Airdate": ["25 May 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jeff Davis",
+      "Chip Esten",
+      "Kathy Kinney",
+      "Colin Mochrie",
+      "Brad Sherwood"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Duet",
+        "Data": [
+          {
+            "Singers": "Jeff and Chip"
+          },
+          {
+            "About": "Jan, a tax professional"
+          },
+          {
+            "Style": "Disco ballad"
+          }
+        ]
+      },
+      {
+        "Name": "Film TV and Theater Styles",
+        "AlternateName": "Options",
+        "Data": [
+          {
+            "Performers": "Kathy and Colin, with Jeff"
+          },
+          {
+            "Scene": "The strange life of a woman named Marnie who lives in New York but spends most of her time in North Carolina doing nothing"
+          },
+          {
+            "Options": "Western, At Ford's Theater, Shakespeare, In Mexico, Three- and Seventeen-word sentences in Mexico"
+          }
+        ]
+      },
+      {
+        "Name": "Tag",
+        "AlternateName": "Freeze Tag",
+        "Data": [
+          {
+            "Starting positions": "Squat (Jeff) and One leg, arm up (Chip)"
+          }
+        ]
+      },
+      {
+        "Name": "Quick Change",
+        "AlternateName": "New Choice",
+        "Data": [
+          {
+            "Performers": "Drew and Brad, with Chip"
+          },
+          {
+            "Scene": "A doctor and a patient somewhere near a lake"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 34": {
+    "Airdate": ["26 May 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jeff Davis",
+      "Chip Esten",
+      "Kathy Kinney",
+      "Colin Mochrie",
+      "Brad Sherwood"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Song Styles",
+        "Data": [
+          {
+            "Singers": "Chip, Jeff, and Brad"
+          },
+          {
+            "About": "Kristi, a mom of quadruplets"
+          },
+          {
+            "Style": "Doo-wop"
+          }
+        ]
+      },
+      {
+        "Name": "First Date",
+        "Data": [
+          {
+            "Performers": "Kathy and Drew, with Colin, Chip, Brad, and Jeff"
+          },
+          {
+            "Couple from the audience": "Matt and Sharon"
+          }
+        ]
+      },
+      {
+        "Name": "Tag",
+        "AlternateName": "Freeze Tag",
+        "Data": [
+          {
+            "Starting positions": "Something that would make us think of baseball (Brad) and The letter \"C\" (Chip)"
+          }
+        ]
+      },
+      {
+        "Name": "Quick Change",
+        "AlternateName": "New Choice",
+        "Data": [
+          {
+            "Performers": "Colin and Kathy, with Jeff"
+          },
+          {
+            "Scene": "Beauticians"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 35": {
+    "Airdate": ["27 May 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jeff Davis",
+      "Chip Esten",
+      "Kathy Kinney",
+      "Greg Proops",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Two-Headed Expert",
+        "Data": [
+          {
+            "Expert": "Greg and Jeff"
+          },
+          {
+            "Interviewer": "Drew and Kathy"
+          },
+          {
+            "Scene": "In a laundromat"
+          }
+        ]
+      },
+      {
+        "Name": "Duet",
+        "Data": [
+          {
+            "Singers": "Chip and Jeff"
+          },
+          {
+            "About": "Deanna, who used to do computer programming"
+          },
+          {
+            "Style": "80s R&B"
+          }
+        ]
+      },
+      {
+        "Name": "Tag",
+        "AlternateName": "Freeze Tag",
+        "Data": [
+          {
+            "Starting positions": "Sitting (Chip) and Crawling (Jeff)"
+          }
+        ]
+      },
+      {
+        "Name": "Forward Rewind",
+        "AlternateName": "Forward Reverse",
+        "Data": [
+          {
+            "Performers": "Chip and Drew"
+          },
+          {
+            "Scene": "In the Revolutionary War"
+          }
+        ]
+      },
+      {
+        "Name": "Whose Line?",
+        "AlternateName": "Sentences",
+        "Data": [
+          {
+            "Performers": "Jeff and Ryan"
+          },
+          {
+            "Scene": "The soap opera, _Tales of Intrigue_"
+          },
+          {
+            "Sentences": [
+              "\"Was that a duck?\"",
+              "\"I can't wait to open your account.\"",
+              "\"You don't sweat much for a woman your size.\"",
+              "\"Time for my Pap Smear.\"",
+              "\"Where were you when the dog died?\"",
+              "\"Hello there, gorgeous.\"",
+              "\"For your prostate exam you can either lay down or bend over.\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 36": {
+    "Airdate": ["30 May 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jeff Davis",
+      "Chip Esten",
+      "Kathy Kinney",
+      "Colin Mochrie",
+      "Brad Sherwood"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Duet",
+        "Data": [
+          {
+            "Singers": "Jeff and Brad"
+          },
+          {
+            "About": "Mary, who does customer service"
+          },
+          {
+            "Style": "R&B ballad"
+          }
+        ]
+      },
+      {
+        "Name": "Quick Change",
+        "AlternateName": "New Choice",
+        "Data": [
+          {
+            "Performers": "Drew and Kathy"
+          },
+          {
+            "Scene": "Something to do with construction"
+          }
+        ]
+      },
+      {
+        "Name": "Tag",
+        "AlternateName": "Freeze Tag",
+        "Data": [
+          {
+            "Starting positions": "Tippy toes headstand (Chip) and Stretching (Brad)"
+          }
+        ]
+      },
+      {
+        "Name": "Two-Headed Expert",
+        "Data": [
+          {
+            "Expert": "Jeff and Drew"
+          },
+          {
+            "Interviewer": "Brad and Colin"
+          },
+          {
+            "Scene": "Kangaroos"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 37": {
+    "Airdate": ["31 May 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jeff Davis",
+      "Chip Esten",
+      "Kathy Kinney",
+      "Greg Proops",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Quick Change",
+        "AlternateName": "New Choice",
+        "Data": [
+          {
+            "Performers": "Ryan and Drew, with Jeff"
+          },
+          {
+            "Scene": "Yacht brokering"
+          }
+        ]
+      },
+      {
+        "Name": "Duet",
+        "Data": [
+          {
+            "Singers": "Jeff and Chip"
+          },
+          {
+            "About": "Debbie, a mathematics teacher"
+          },
+          {
+            "Style": "Broadway musical"
+          }
+        ]
+      },
+      {
+        "Name": "Question This",
+        "Data": [
+          {
+            "Host": "Ryan"
+          },
+          {
+            "Contestants": "Kathy, Greg, Drew, and Chip"
+          },
+          {
+            "Answers": [
+              "Lamborghini",
+              "Uranium",
+              "Pickles",
+              "Madrid",
+              "Ukraine",
+              "Skeeballs",
+              "Luigi",
+              "Sacrilegious",
+              "Cork",
+              "Uvula"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Greatest Hits",
+        "Data": [
+          {
+            "Singers": "Chip and Jeff"
+          },
+          {
+            "Pitchmen": "Ryan and Greg"
+          },
+          {
+            "Musician": "Bob"
+          },
+          {
+            "Album": "_The Greatest Hits of the Bank Manager Trainee_"
+          },
+          {
+            "Songs": ["60s funk - \"Let's Leave the Dollar In\""]
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 38": {
+    "Airdate": ["1 June 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jeff Davis",
+      "Chip Esten",
+      "Kathy Kinney",
+      "Greg Proops",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Moving People",
+        "Data": [
+          {
+            "Performers": "Jeff and Kathy"
+          },
+          {
+            "Movers from the audience": "Kristi and Drew"
+          },
+          {
+            "Scene": "Amusement Park Day"
+          }
+        ]
+      },
+      {
+        "Name": "Sound Effects (with Audience Members)",
+        "Data": [
+          {
+            "Performers": "Kathy and Ryan"
+          },
+          {
+            "Audience members": "Jeff and Heather"
+          },
+          {
+            "Scene": "A rancher"
+          }
+        ]
+      },
+      {
+        "Name": "Tag",
+        "AlternateName": "Freeze Tag",
+        "Data": [
+          {
+            "Starting positions": "On his knees (Greg) and Jumping jacks (Jeff)"
+          }
+        ]
+      },
+      {
+        "Name": "Show-Stopping Number",
+        "AlternateName": "Bob's Call",
+        "Data": [
+          {
+            "Performers": "Ryan and Greg"
+          },
+          {
+            "Scene": "Collecting bathing suits"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 39": {
+    "Airdate": ["2 June 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jeff Davis",
+      "Chip Esten",
+      "Kathy Kinney",
+      "Colin Mochrie",
+      "Brad Sherwood"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Greatest Hits",
+        "Data": [
+          {
+            "Singers": "Jeff and Chip"
+          },
+          {
+            "Pitchmen": "Colin and Kathy"
+          },
+          {
+            "Musician": "Bob"
+          },
+          {
+            "Album": "_Songs of the Gas Pumper_"
+          },
+          {
+            "Songs": [
+              "80s electronica - \"Wipe the Window, Hang the Freshener, Let's Go\""
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Whose Line?",
+        "AlternateName": "Sentences",
+        "Data": [
+          {
+            "Performers": "Colin and Jeff"
+          },
+          {
+            "Scene": "the soap opera, _Like, Seriously, I Don't Know_"
+          },
+          {
+            "Sentences": [
+              "\"That looks like Einstein with an afro.\"",
+              "\"Outsourced to medieval Scotland\"",
+              "\"Two Amish walk into Sapphire's, oh yeah.\"",
+              "\"Say hello to my little friend, his name is Paul.\"",
+              "\"Gandhi and Joe Pesci in an...\"",
+              "\"Quick, take a video of this laser beam shooting out of my ass and put it all over youtube.\""
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Film TV and Theater Styles",
+        "AlternateName": "Options",
+        "Data": [
+          {
+            "Performers": "Chip and Colin, with Jeff"
+          },
+          {
+            "Scene": "Screen printing and embroidering"
+          },
+          {
+            "Options": "Western, Horror, Horror porn, Romantic Shakespearean"
+          }
+        ]
+      },
+      {
+        "Name": "Sound Effects (with Audience Members)",
+        "Data": [
+          {
+            "Performers": "Chip and Drew"
+          },
+          {
+            "Audience members": "Hilan and Brandon"
+          },
+          {
+            "Scene": "Oil field mechanics"
+          }
+        ]
+      }
+    ]
+  },
+  "Improv-A-Ganza 40": {
+    "Airdate": ["3 June 2011"],
+    "Host": ["Drew Carey"],
+    "Performers": [
+      "Jeff Davis",
+      "Chip Esten",
+      "Kathy Kinney",
+      "Greg Proops",
+      "Ryan Stiles"
+    ],
+    "Musicians": ["Bob Derkach"],
+    "Games": [
+      {
+        "Name": "Greatest Hits",
+        "Data": [
+          {
+            "Singers": "Jeff and Chip"
+          },
+          {
+            "Pitchmen": "Ryan and Greg"
+          },
+          {
+            "Musician": "Bob"
+          },
+          {
+            "Album": "_The Greatest Hits of the Doctor_"
+          },
+          {
+            "Songs": ["Boy band - \"HMO\""]
+          }
+        ]
+      },
+      {
+        "Name": "First Date",
+        "Data": [
+          {
+            "Performers": "Kathy and Drew, with Jeff, Greg, and Ryan"
+          },
+          {
+            "Couple from the audience": "Taryn and Michael"
+          }
+        ]
+      },
+      {
+        "Name": "Sound Effects (with Audience Members)",
+        "Data": [
+          {
+            "Performers": "Chip and Ryan"
+          },
+          {
+            "Audience members": "Mason and Greg"
+          },
+          {
+            "Scene": "Skydiving"
+          }
+        ]
+      },
+      {
+        "Name": "Quick Change",
+        "AlternateName": "New Choice",
+        "Data": [
+          {
+            "Performers": "Greg and Ryan, with Jeff"
+          },
+          {
+            "Scene": "A nice restaurant"
+          }
+        ]
+      }
+    ]
+  }
+}
